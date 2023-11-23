@@ -1,6 +1,6 @@
 # Question-and-answer-site-application
 
-An application that simulates a question and aswer site (e.g. Stack Overflow).
+An application that simulates a question and answer site (e.g. Stack Overflow).
 
 When the application is launched a new window is created for each user. The window will show a list with all the questions asked so far (a user can add a new question, add an answer and an answer given by the current user will be shown in a yellow backround).
 
