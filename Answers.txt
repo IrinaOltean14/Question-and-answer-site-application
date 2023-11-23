@@ -1,0 +1,20 @@
+1,1,Dan Negru,Gabriel,100
+3,2,Cati cai?,Irina,1000
+3,2,Cati cai?,Gabriel,10
+3,2,Cati cai?,Irina,100
+3,2,Cati cai?,Irina,1
+1,1,cu mine,Irina,5
+2,3,Irina,49,0
+3,3,Gabriel,dxsf,0
+4,3,50,Irina,0
+5,5,Irina,Flash,0
+6,5,Gabriel,Iron man,0
+7,6,9,Irina,0
+8,6,10,Gabriel,0
+9,1,Irina,Familia,0
+10,6,11,Irina,0
+11,5,Gabriel,Hulk,0
+12,5,Irina,ceva,0
+13,4,awsd,Irina,0
+14,6,12,Gabriel,0
+15,1,cu tine wink wink,Gabriel,0

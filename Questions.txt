@@ -1,0 +1,6 @@
+1,cu cine faci revelionul?,Irina
+2,6 cai,Gabriel
+3,cat face 7x7?,Irina
+4,care e capitala Angliei?,Irina
+5,ce film se lanseaza saptamana asta?,Gabriel
+6,cat e ceasul?,Irina
